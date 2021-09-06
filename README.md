@@ -6,10 +6,10 @@ Inventory management is very important for the success of many companies. In thi
 
 ## All Files
 
-1.adding_new_prod.ipynb
-2.purchase.ipynb
-3.record.json
-4.sales.json
+1.adding_new_prod.ipynb<br>
+2.purchase.ipynb<br>
+3.record.json<br>
+4.sales.json<br>
 
 ## Product Features
 (Prod_id, Title, Type, Description, Price, Rating, Quantity)
@@ -21,6 +21,6 @@ Inventory management is very important for the success of many companies. In thi
   I'm Software Engineer and intern at ETG
   
 # IMP Links ->
-1.Linkdin - https://www.linkedin.com/in/mohit-pawar-965241196/
-2.Facebook - https://www.facebook.com/mohit.pawar.79677471
-3.Instagram - https://www.instagram.com/mohit_pawar4072/
+1.Linkdin - https://www.linkedin.com/in/mohit-pawar-965241196/ <br>
+2.Facebook - https://www.facebook.com/mohit.pawar.79677471 <br>
+3.Instagram - https://www.instagram.com/mohit_pawar4072/ <br>
