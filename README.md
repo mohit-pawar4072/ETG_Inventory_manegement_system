@@ -22,5 +22,5 @@ Inventory management is very important for the success of many companies. In thi
   
 # IMP Links ->
 1.Linkdin - https://www.linkedin.com/in/mohit-pawar-965241196/
-2.Facebook - https://www.facebook.com/mohit.pawar.79677471
-3.Instagram - https://www.instagram.com/mohit_pawar4072/
+\n2.Facebook - https://www.facebook.com/mohit.pawar.79677471
+\n3.Instagram - https://www.instagram.com/mohit_pawar4072/
